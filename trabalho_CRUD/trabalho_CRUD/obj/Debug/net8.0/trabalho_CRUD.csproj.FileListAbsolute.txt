@@ -1,0 +1,5 @@
+D:\LP2 (2 ano)\TRABALHOS_LP2\trabalho_CRUD\trabalho_CRUD\trabalho_CRUD\obj\Debug\net8.0\trabalho_CRUD.csproj.AssemblyReference.cache
+D:\LP2 (2 ano)\TRABALHOS_LP2\trabalho_CRUD\trabalho_CRUD\trabalho_CRUD\obj\Debug\net8.0\trabalho_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\LP2 (2 ano)\TRABALHOS_LP2\trabalho_CRUD\trabalho_CRUD\trabalho_CRUD\obj\Debug\net8.0\trabalho_CRUD.AssemblyInfoInputs.cache
+D:\LP2 (2 ano)\TRABALHOS_LP2\trabalho_CRUD\trabalho_CRUD\trabalho_CRUD\obj\Debug\net8.0\trabalho_CRUD.AssemblyInfo.cs
+D:\LP2 (2 ano)\TRABALHOS_LP2\trabalho_CRUD\trabalho_CRUD\trabalho_CRUD\obj\Debug\net8.0\trabalho_CRUD.csproj.CoreCompileInputs.cache
